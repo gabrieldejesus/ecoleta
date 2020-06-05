@@ -1,0 +1,93 @@
+/*Home*/
+#page-home {
+    height:100vh;/*Pegar toda a altura*/
+    background:url('../assets/home-background.svg') no-repeat; /*Forma curta de escrever*/
+    background-position:35vw bottom;
+}
+
+#page-home .content {
+    width:90%;
+    max-width:1100px; /*Largura maxima*/
+    height:100%;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+}
+
+#page-home header {
+    margin-top:40px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+#page-home header a {
+    display:flex;
+    color:var(--title-color); /*Usando variavel do root*/
+    font-weight:700;
+}
+
+#page-home header a span {
+    width:20px;
+    height:20px;
+    display:flex;
+    margin-right:16px;
+    background-image:url('../assets/log-in.svg');
+}
+
+#page-home main {
+    max-width:560px;
+    flex:1;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+#page-home main h1 {
+    font-size:54px;
+}
+
+#page-home main p {
+    font-size:24px;
+    line-height:38px;
+    margin-top:24px;
+}
+
+#page-home main a {
+    width:100%;
+    max-width:360px;
+    height:72px;
+    display:flex;
+    align-items:center;
+    margin-top:40px;
+    border-radius:8px;
+    background-color:var(--primary-color);
+    transition:400ms; /*Transição*/
+}
+
+#page-home main a:hover {
+    background-color:#2FB86E;
+}
+
+#page-home main a span {
+    width:72px;
+    height:72px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-top-left-radius:8px;
+    border-bottom-left-radius:8px;
+    background-color:#00000014;
+}
+/*Criar elemento que não tem no html*/
+#page-home main a span:after {
+    content: "";
+    width:20px;
+    height:20px;
+    background-image:url('../assets/search.svg');
+}
+#page-home main a strong {
+    flex:1;
+    color:#FFF;
+    text-align:center;
+}

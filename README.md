@@ -1,0 +1,7 @@
+# Hackatrouble
+# ECOLETA - PROJETO CRIADO DURANTE A NEXT LEVEL WEEK DA ROCKETSEAT
+
+# PROJETO ECOLETA
+- O que é ?
+
+O projeto

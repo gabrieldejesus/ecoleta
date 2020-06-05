@@ -1,0 +1,87 @@
+#modal {
+    height:100vh;
+    width:100vw;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    top:0;
+    position:fixed;
+    background-color:#0E0A14EF;
+    transition:400ms;
+}
+
+#modal.hide {
+    display:none;
+}
+
+
+#modal .content {
+    color:#FFF;
+    width:420px;
+}
+
+#modal .header {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin-bottom:48px;
+}
+
+#modal .header a {
+    width:20px;
+    height:20px;
+    display:flex;
+    font-size:0.1px; /*Só para os leitores de tela lerem*/
+    background-image:url('../assets/x.svg');
+}
+
+#modal .header h1 {
+    color:#FFF;
+    font-size:36px;
+    line-height:42px;
+}
+
+#modal form label{
+    display:block;
+    font-size:14px;
+    line-height:16px;
+    margin-bottom:8px;
+}
+
+#modal form .field {
+    display:flex;
+}
+
+#modal form input {
+    flex:1;
+    border:0;
+    color:#6C6C80;
+    font-size:16px;
+    padding:16px 24px;
+    border-radius:8px 0 0 8px;
+    background-color:#F0F0F5;
+}
+
+#modal form button {
+    height:72px;
+    width:72px;
+    border:0;
+    border-radius:0 8px 8px 0;
+    background-color:var(--primary-color);
+}
+#modal form button:hover {
+    cursor:pointer;
+    background-color:#2FB85E;
+}
+
+
+/* Para o modal point created */
+#modal.point .content{
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+}
+#modal.point h1 {
+    color:#FFF;
+    margin-top:32px;
+}

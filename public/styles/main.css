@@ -1,0 +1,28 @@
+/*
+Para eu não ficar repetindo cores
+- root = Referenciando a raiz do meu documento
+- colocar propriedades que vão poder ser replicadas em formado de variaveis 
+*/
+:root {
+    --title-color:#322153;
+    --primary-color:#34CB79;
+}
+/*Para todos*/
+* {
+    margin:0;
+    padding:0;
+    font-family:'Roboto', sans-serif;
+    box-sizing:border-box;
+}
+body {
+    background:#f0f0f5;
+    -webkit-font-smoothing:antialiased; /*Fonte se apresenta de um jeito melhor*/
+}
+a {
+    text-decoration:none; /*Tirar sublinhado de todos os elementos a*/
+}
+/*Setando propriedades para todos os h1, h2, h3, h4, h5, h6*/
+h1, h2, h3, h4, h5, h6 {
+    color:var(--title-color);
+    font-family: 'Ubuntu', sans-serif;
+}
