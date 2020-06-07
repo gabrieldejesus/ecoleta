@@ -1,7 +1,7 @@
 # 📒 Next Level Week
-# ECOLETA - MARKETPLACE DE COLETA DE RESÍDUOS
+# ECOLETA - WASTE COLLECTION MARKETPLACE
 
-# Projeto: Ecoleta
-- O que é ?
+# Project: Ecoleta
+- What is ?
 
-O projeto ecoleta tem como finalidade ajudar pessoas a encontrarem pontos de coleta e também possibilita que insituições cadastrem pontos de coleta tudo de forma eficiente.
+The ecoleta project aims to help people find collection points and also allows institutions to register collection points all efficiently.
