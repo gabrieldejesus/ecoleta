@@ -1,5 +1,5 @@
 📒 Next Level Week
-# ECOLETA - WASTE COLLECTION MARKETPLACE
+# Ecoleta - Waste Collection Marketplace
 
 # Project: Ecoleta
 - What is ?
