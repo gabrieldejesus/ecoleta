@@ -1,4 +1,4 @@
-# 📒 Next Level Week
+📒 Next Level Week
 # ECOLETA - WASTE COLLECTION MARKETPLACE
 
 # Project: Ecoleta
