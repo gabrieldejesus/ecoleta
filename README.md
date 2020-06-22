@@ -18,7 +18,6 @@
 
 Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 [https://github.com/devgabrieldejesus/ecoleta](https://github.com/devgabrieldejesus/)
 
