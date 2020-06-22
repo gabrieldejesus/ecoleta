@@ -1,8 +1,31 @@
-📒   Next Level Week
 # Ecoleta - Waste Collection Marketplace
 
-# Project: Ecoleta
-> Project created during the next level week of rocketseat to review my skills
+> 📒 Project created during the next level week of rocketseat to review my skills.
 
 
-![](public/assets/social-preview-ecoleta.png)
+
+> Web preview
+![](public/assets/web-preview.gif)
+
+
+
+## Release history
+
+* 0.0.1
+    * Work in `progress`
+
+## Meta
+
+Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+[https://github.com/devgabrieldejesus/ecoleta](https://github.com/devgabrieldejesus/)
+
+## Contributing
+
+1. Fork it (<https://github.com/devgabrieldejesus/ecoleta/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
