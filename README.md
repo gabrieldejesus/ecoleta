@@ -1,23 +1,27 @@
-# Ecoleta - Waste Collection Marketplace
+# Ecoleta
 
-> 📒 Project created during the next level week of rocketseat to review my skills.
+> Your waste collection marketplace
+We help people find collection points efficiently.
 
-
-
-> Web preview
+`Web preview`
 ![](public/assets/web-preview.gif)
 
+## Example of use
 
+Register a collection point with the name of the entity, an image of the entity, full address and the collection items.
 
 ## Release history
 
+* 0.1.0
+    * Project finalized and studying the possibility of adding `new resources`
 * 0.0.1
-    * Work in `progress`
+    * Work in progress
 
 ## Meta
 
-Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
 
+Distributed under the MIT License. See LICENSE for more information.
 
 [https://github.com/devgabrieldejesus/ecoleta](https://github.com/devgabrieldejesus/)
 
