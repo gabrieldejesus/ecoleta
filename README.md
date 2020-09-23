@@ -1,6 +1,6 @@
 # Ecoleta
 
-> Your waste collection marketplace
+Your waste collection marketplace
 We help people find collection points efficiently.
 
 `Web preview`
@@ -19,7 +19,7 @@ Register a collection point with the name of the entity, an image of the entity,
 
 ## Meta
 
-Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – contato@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
 
 Distributed under the MIT License. See LICENSE for more information.
 
