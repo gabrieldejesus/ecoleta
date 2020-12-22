@@ -45,7 +45,6 @@ or download the zip from the green button at the beginning of the repository
 - 0.1.0
   - Project finalized and studying the possibility of adding new resources
   - The first suitable lauch
-
 - 0.1.0
   - Work in progress
 
